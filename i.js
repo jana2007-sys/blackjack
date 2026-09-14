@@ -59,7 +59,7 @@ else if(sum===21){//we use === to strictly use 21 not "21"
 
 }
 else{
-    message="you lost your money"
+    message="you lost the game"
     isAlive=false
 }
 messageEl.textContent=message
